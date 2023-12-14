@@ -20,7 +20,7 @@ In rural environments, women face a significant challenge due to restricted acce
 ![406519227_706188904799522_295218851234546204_n](https://github.com/SkanderChayoukhi/MTS-project/assets/138572009/0a128bc8-5376-47c8-b874-df8e04f9d92e)
 
 
-Embrace the essence of Tamaris, where each stitch and endeavor signifies a dedicated commitment. Rooted in rural communities, our project reflects the Tamaris spirit by supporting and empowering women in health and well-being. Together, we're crafting a narrative of strength, resilience, and excellence, paving the way for a brighter future for these remarkable artisans. Tamaris: Enhancing Lives, One Stitch at a Time, as we actively work to improve conditions and uplift entire communities.
+Embrace the essence of Tamaris, where each stitch and endeavor signifies a dedicated commitment.
 ### Mobile application TAMARIS 
 TAMARIS is an innovative solution designed not only to guide rural women in selling their products but also to enhance the quality of their products by improving the product images using the PicWish API. Taking it a step further, through the Hive API, a detailed caption describing the handmade project will be generated, and a unique logo for each woman's project will be created. Subsequently, all this information will be consolidated into a post shared on the Instagram account, which is established through the link between the ARAMis application and Instagram, facilitated by the Instagram Graph API. The account serves as a centralized hub for showcasing the work of every rural woman.
 
