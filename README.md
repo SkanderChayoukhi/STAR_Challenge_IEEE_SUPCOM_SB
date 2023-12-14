@@ -38,7 +38,7 @@ Moreover, we go beyond mere product promotion by intertwining health-related inf
 - **API Graph for Instagram connecting the application withthe instagram account**
 
 - **Flutter for Frontend development**
-- 
+  
 - **FireBase for backend development**
 
 ## Key Partners
@@ -58,14 +58,14 @@ Aramex plays a crucial role in facilitating deliveries from rural areas to clien
 ### Link 
 https://www.figma.com/file/3JfjQ2r7OID8vSTVYtcWNG/TAMARIS-Figma-prototype-(SUP'COM-SB)?type=design&node-id=0%3A1&mode=design&t=90G6Tm3JzILcFMhf-1
 
-### Demo 
+## Demo 
 
 [Click here to watch the video]()
 
-### Logistic Cycle
+## Logistic Cycle
 ![403415258_1034155644532788_1979923774412024800_n](https://github.com/SkanderChayoukhi/MTS-project/assets/138572009/868146ce-b0b7-425b-a4a0-7dd6ccc515a3)
 
-### RoadMap And Scalability
+## RoadMap And Scalability
 ![403411453_214686868345402_1314558257024816883_n](https://github.com/SkanderChayoukhi/MTS-project/assets/138572009/5513399b-25df-4230-a910-967f490753f6)
 
 Our application's strategic roadmap encompasses a broader geographical reach across multiple regions, accompanied by strategic partnerships with like-minded associations for a more significant impact. Moreover, the application will provide more robust technical features to enhance the user experiment.
