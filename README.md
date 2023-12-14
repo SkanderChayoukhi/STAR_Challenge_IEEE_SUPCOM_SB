@@ -20,12 +20,11 @@ In rural environments, women face a significant challenge due to restricted acce
 ![406519227_706188904799522_295218851234546204_n](https://github.com/SkanderChayoukhi/MTS-project/assets/138572009/0a128bc8-5376-47c8-b874-df8e04f9d92e)
 
 
-#### Embrace the essence of Tamaris, where each stitch and endeavor signifies a dedicated commitment.
-### Mobile application TAMARIS 
-TAMARIS is an innovative solution designed not only to guide rural women in selling their products but also to enhance the quality of their products by improving the product images using the PicWish API. Taking it a step further, through the Hive API, a detailed caption describing the handmade project will be generated, and a unique logo for each woman's project will be created. Subsequently, all this information will be consolidated into a post shared on the Instagram account, which is established through the link between the TARAMIS application and Instagram, facilitated by the Instagram Graph API. The account serves as a centralized hub for showcasing the work of every rural woman.
+### Embrace the essence of Tamaris, where each stitch and endeavor signifies a dedicated commitment.
 
+TAMARIS is an innovative solution that empowers rural women to sell their products while enhancing their quality. We achieve this by improving product images using the PicWish API and generating detailed captions through the Hive API. Additionally, we create unique logos for each woman's project. We are also dedicated to promoting health awareness and delivering relevant information that contributes to their overall well-being.
+The TAMARIS application is linked to Instagram via the Instagram Graph API, allowing us to consolidate all this information into a post shared on an Instagram account. This account serves as a centralized hub for showcasing the work of every rural woman.
 
-## Added Value:
 Our platform stands out by recognizing the significance of economic independence and entrepreneurship for rural women. We equip them with the necessary tools and opportunities to succeed in the digital marketplace. Through the utilization of diverse APIs, we elevate the quality and visibility of their product posts, resulting in more impactful promotion.
 
 ## Technologies Used
