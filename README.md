@@ -9,7 +9,7 @@
 - [Key Partners](#key-partners)
 - [Prototype Figma](#prototype-figma)
 - [Demo](#demo)
-- [Logistic Cycle](#logistic-cycle:)
+- [Logistic Cycle](#logistic-cycle)
 - [RoadMap And Scalability](#roadMap-and-scalability)
 
 
