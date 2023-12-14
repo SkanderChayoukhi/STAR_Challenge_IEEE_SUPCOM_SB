@@ -4,7 +4,6 @@
 
 - [Introduction](#introduction)
 - [Solution Description](#solution-description)
-- [Added Value](#added-value)
 - [Technologies Used](#technologies-used)
 - [Key Partners](#key-partners)
 - [Prototype Figma](#prototype-figma)
