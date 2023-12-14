@@ -58,6 +58,10 @@ Aramex plays a crucial role in facilitating deliveries from rural areas to clien
 ![404894965_1836960826757244_5792249440757561939_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/c6af33b9-fdc4-4dd8-b7ed-053214f43a8c)
 ![406439940_752761370001182_4563350482415749493_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/148a5a56-2f70-4367-917e-1a18fb6c2481)
 ![406523110_1419894772257763_3024318031308750271_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/46c97418-a374-45b1-8265-b0e07cb92b71)
+![406496852_162410633629195_381957080920976286_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/c88d4096-6a21-4c03-bfe2-b386a66bbfe3)
+![406476636_724651716238621_3896735863959045323_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/f3431f95-9e5e-4b18-99c3-346a61b1a935)
+![384568593_1039926010646345_8333964905464595870_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/db7f39d0-b793-43c5-9818-5a22508c5cc8)
+![406189244_303652192650382_6449517866523037044_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/dd02e4cc-df03-4f9f-bb7a-4ac1e7902277)
 
 
 ### Link 
