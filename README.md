@@ -22,11 +22,11 @@ In rural environments, women face a significant challenge due to restricted acce
 
 #### Embrace the essence of Tamaris, where each stitch and endeavor signifies a dedicated commitment.
 ### Mobile application TAMARIS 
-TAMARIS is an innovative solution designed not only to guide rural women in selling their products but also to enhance the quality of their products by improving the product images using the PicWish API. Taking it a step further, through the Hive API, a detailed caption describing the handmade project will be generated, and a unique logo for each woman's project will be created. Subsequently, all this information will be consolidated into a post shared on the Instagram account, which is established through the link between the ARAMis application and Instagram, facilitated by the Instagram Graph API. The account serves as a centralized hub for showcasing the work of every rural woman.
+TAMARIS is an innovative solution designed not only to guide rural women in selling their products but also to enhance the quality of their products by improving the product images using the PicWish API. Taking it a step further, through the Hive API, a detailed caption describing the handmade project will be generated, and a unique logo for each woman's project will be created. Subsequently, all this information will be consolidated into a post shared on the Instagram account, which is established through the link between the TARAMIS application and Instagram, facilitated by the Instagram Graph API. The account serves as a centralized hub for showcasing the work of every rural woman.
 
-Our platform aims to promote economic independence and entrepreneurship among rural women, providing them with a pathway to thrive in the digital marketplace.
 
 ## Added Value:
+Our platform aims to promote economic independence and entrepreneurship among rural women, providing them with a pathway to thrive in the digital marketplace.
 
 ## Technologies Used
 
@@ -55,13 +55,17 @@ Aramex plays a crucial role in facilitating deliveries from rural areas to clien
 ## Prototype Figma
 
 ### Screenshots 
+![404894965_1836960826757244_5792249440757561939_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/c6af33b9-fdc4-4dd8-b7ed-053214f43a8c)
+![406439940_752761370001182_4563350482415749493_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/148a5a56-2f70-4367-917e-1a18fb6c2481)
+![406523110_1419894772257763_3024318031308750271_n](https://github.com/SkanderChayoukhi/STAR_Challenge_IEEE_SUPCOM_SB/assets/138572009/46c97418-a374-45b1-8265-b0e07cb92b71)
+
 
 ### Link 
 https://www.figma.com/file/3JfjQ2r7OID8vSTVYtcWNG/TAMARIS-Figma-prototype-(SUP'COM-SB)?type=design&node-id=0%3A1&mode=design&t=90G6Tm3JzILcFMhf-1
 
 ## Demo 
 
-[Click here to watch the video]()
+[Click here to watch the video](https://youtu.be/OPZKvGgWgDc)
 
 ## Logistic Cycle
 ![403415258_1034155644532788_1979923774412024800_n](https://github.com/SkanderChayoukhi/MTS-project/assets/138572009/868146ce-b0b7-425b-a4a0-7dd6ccc515a3)
