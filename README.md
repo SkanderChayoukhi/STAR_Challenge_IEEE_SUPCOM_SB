@@ -20,10 +20,9 @@
 ![406519227_706188904799522_295218851234546204_n](https://github.com/SkanderChayoukhi/MTS-project/assets/138572009/0a128bc8-5376-47c8-b874-df8e04f9d92e)
 
 ### Mobile application TAMARIS 
-An innovative solution dedicated to simplifying the promotion and sale of handmade products, with a key emphasis on empowering women in rural communities.
-Our solution harnesses the potential of technology to enhance the visibility of these artisans, creating opportunities for economic growth and self-sustainability. Unlike existing applications, our app stands out through a set of unique features designed to empower and guide rural women in effectively showcasing and marketing their handmade creations.
-Through our platform, the objective is to foster economic independence and entrepreneurship among  rural women, creating a pathway for them to thrive in the digital marketplace.
-Moreover, we go beyond mere product promotion by intertwining health-related information with their craft, fostering a supportive environment that recognizes the significance of both physical well-being and professional pursuits
+TAMARIS is an innovative solution designed not only to guide rural women in selling their products but also to enhance the quality of their products by improving the product images using the PicWish API. Taking it a step further, through the Hive API, a detailed caption describing the handmade project will be generated, and a unique logo for each woman's project will be created. Subsequently, all this information will be consolidated into a post shared on the Instagram account, which is established through the link between the ARAMis application and Instagram, facilitated by the Instagram Graph API. The account serves as a centralized hub for showcasing the work of every rural woman.
+
+Our platform aims to promote economic independence and entrepreneurship among rural women, providing them with a pathway to thrive in the digital marketplace.
 
 ## Added Value:
 
