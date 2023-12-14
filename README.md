@@ -26,7 +26,7 @@ TAMARIS is an innovative solution designed not only to guide rural women in sell
 
 
 ## Added Value:
-Our platform aims to promote economic independence and entrepreneurship among rural women, providing them with a pathway to thrive in the digital marketplace.
+Our platform stands out by recognizing the significance of economic independence and entrepreneurship for rural women. We equip them with the necessary tools and opportunities to succeed in the digital marketplace. Through the utilization of diverse APIs, we elevate the quality and visibility of their product posts, resulting in more impactful promotion.
 
 ## Technologies Used
 
